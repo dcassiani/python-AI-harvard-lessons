@@ -3,7 +3,8 @@ dump de testes de em python de materia do curso de Introduction to Artificial In
 
 - Introduction to Artificial Intelligence with Python
   - https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home
-  - python libs: pomegranate
+  - https://cs50.harvard.edu/ai/2024/
+  - python libs: pomegranate, pillow/PIL
 - Manipulação de dados e DB: numpy, pandas, scipy, SQLAlchemy (PostgreSQL) ORM
 - Desenvolvimento de APIs: FastAPI 
 - Modelos Generativos: transformers (Hugging Face), GPT, modelos pré-treinados
