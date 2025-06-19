@@ -1,4 +1,7 @@
 transcript - https://cs50.harvard.edu/ai/2024/projects/0/degrees/
+lesson - https://cs50.harvard.edu/ai/2024/weeks/0/
+proj-yml - https://raw.githubusercontent.com/ai50/projects/2024/x/degrees/.cs50.yml
+base source - aula 0 - maze.py
 
 Degrees
 The latest version of Python you should use in this course is Python 3.12.
